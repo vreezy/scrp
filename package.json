@@ -1,0 +1,20 @@
+{
+  "name": "scrp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "html-to-json": "^0.6.0",
+    "node-notifier": "^9.0.1",
+    "playwright": "^1.11.1",
+    "read-last-lines": "^1.8.0",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
